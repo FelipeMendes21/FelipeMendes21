@@ -1,8 +1,9 @@
-<h2> Me apaixonei por esse campo no dia em que percebi que, com as ferramentas certas, aprendizado e dedicação, podemos oferecer praticidade e segurança para as pessoas.
+<h2>about me</h2>
+<h4> Me apaixonei por esse campo no dia em que percebi que, com as ferramentas certas, aprendizado e dedicação, podemos oferecer praticidade e segurança para as pessoas.
  
-Acredito que a tecnologia é o futuro e que, através dela, podemos transformar vidas e a sociedade. Estou ansioso para contribuir com inovações que façam a diferença e para continuar aprendendo e crescendo nessa área dinâmica e em constante evolução.</h2>
+Acredito que a tecnologia é o futuro e que, através dela, podemos transformar vidas e a sociedade. Estou ansioso para contribuir com inovações que façam a diferença e para continuar aprendendo e crescendo nessa área dinâmica e em constante evolução.</h4>
 
-<h1 align="left">Tecnologias</h2>
+<h3 align="left">Tecnologias</h3>
 
 ###
 
