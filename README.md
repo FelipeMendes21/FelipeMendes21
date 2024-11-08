@@ -1,3 +1,7 @@
+<h2> Me apaixonei por esse campo no dia em que percebi que, com as ferramentas certas, aprendizado e dedicação, podemos oferecer praticidade e segurança para as pessoas.
+ 
+Acredito que a tecnologia é o futuro e que, através dela, podemos transformar vidas e a sociedade. Estou ansioso para contribuir com inovações que façam a diferença e para continuar aprendendo e crescendo nessa área dinâmica e em constante evolução.</h2>
+
 <h1 align="left">Tecnologias</h2>
 
 ###
